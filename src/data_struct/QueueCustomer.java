@@ -6,8 +6,6 @@ import java.util.LinkedList;
  * @ProjectName: algocollection
  * @Package: data_struct
  * @ClassName: QueueCustomer
- * @Author: myname
- * @Description: ${description}
  * @Date: 2018/10/17 10:37
  * @Version: 1.0
  */
