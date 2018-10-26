@@ -1,4 +1,4 @@
-package leetcode.ex2twoAdd;
+package leetcode.ex2twoadd;
 
 /**
  * 给定两个非空链表来表示两个非负整数。位数按照逆序方式存储，它们的每个节点只存储单个数字。将两数相加返回一个新的链表。

@@ -1,4 +1,4 @@
-package leetcode.ex2twoAdd;
+package leetcode.ex2twoadd;
 
 /**
  * @ProjectName: algocollection

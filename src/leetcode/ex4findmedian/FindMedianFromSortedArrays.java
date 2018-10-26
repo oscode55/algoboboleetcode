@@ -1,4 +1,4 @@
-package leetcode.ex4findMedianSortedArrays;
+package leetcode.ex4findmedian;
 
 import util.Util;
 
