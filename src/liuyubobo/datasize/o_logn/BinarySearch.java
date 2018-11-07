@@ -1,4 +1,4 @@
-package liuyubobo.o_logn;
+package liuyubobo.datasize.o_logn;
 
 import liuyubobo.o_n_2.SelectSort;
 import util.Util;

@@ -19,6 +19,7 @@ public class ValidateParentheses {
      *   检查栈
      *     如果栈不为空,则代表有左括号没有找到配对的右括号,非法
      *     如果栈为空,则代表所有左括号都找到配对的右括号,合法
+     *     time: O(N)
      */
     public static boolean isValidMe(String s){
         int n = s.length();

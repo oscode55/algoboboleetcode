@@ -1,4 +1,4 @@
-package liuyubobo.o_n_2;
+package liuyubobo.datasize.o_n_2;
 
 import util.Util;
 

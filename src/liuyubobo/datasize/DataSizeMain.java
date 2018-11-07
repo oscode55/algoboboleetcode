@@ -1,9 +1,6 @@
-package liuyubobo;
+package liuyubobo.datasize;
 
-import liuyubobo.o_logn.BinarySearch;
-import liuyubobo.o_n_1.FindElement;
-import liuyubobo.o_n_2.SelectSort;
-import liuyubobo.o_n_logn.MergeSort;
+import liuyubobo.datasize.o_n_logn.MergeSort;
 import util.Util;
 
 import java.util.Arrays;
